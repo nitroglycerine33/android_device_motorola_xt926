@@ -1,3 +1,6 @@
+# temp fix for dalvik-cache
+dalvik.vm.dexopt-data-only=1
+
 rild.libargs=-d /dev/smd0
 persist.rild.nitz_plmn=
 persist.rild.nitz_long_ons_0=
